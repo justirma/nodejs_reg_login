@@ -10,7 +10,7 @@ Learnings:
 - Using Bootstrap and FontAwesome for styling
 - Setting up the routes (/user, /registration, /login)
 
-### 5/13
+### 5/13 Up and Running!
 
 Learnings:
 
@@ -24,3 +24,7 @@ Learnings:
 - Handled logout
 - Handled authentication via `auth.js` so that a logged out user cannot view dashboard
 - Learned a bit more about using partials
+
+### How will I use this in the future?
+
+Will most likely use this a boilerplate to start on other web apps I create. Once I get more comfortable I'll explore other tools to make auth and login more seamless.
